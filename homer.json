@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Homer",
   "author": "NJ",
-  "model": "./Homer.tflite",
+  "model": "Homer.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
